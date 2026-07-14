@@ -1,0 +1,47 @@
+// {
+//   candidate_name: 'Om Gupta',
+//   job_title: 'MERN Stack Developer',
+//   overall_recommendation: 'Positive',
+//   strengths: [
+//     'Strong foundational knowledge of MERN stack technologies (React.js, Node.js, Express.js, MongoDB).',
+//     'Demonstrated ability to build full-stack applications through diverse projects (AI Interview Platform, Task Management App).',
+//     'Experience with AI integration (Gemini AI) in a project.',
+//     'Excellent problem-solving skills, evidenced by solving 500+ DSA problems.',
+//     'Practical experience with Git & GitHub, HTML, CSS, SCSS, and REST APIs.',
+//     'Relevant internship experience as a MERN Stack Developer.'
+//   ],
+//   areas_for_improvement: [
+//     'Limited professional experience (3 months internship).',
+//     'Still pursuing B.Tech degree, indicating early career stage.',
+//     'Need to assess depth of knowledge in advanced MERN concepts and best practices.',
+//     'Behavioral and communication skills are unassessed based on resume alone.',
+//     'Exposure to larger scale projects and enterprise-level architecture might be limited.'
+//   ],
+//   technical_skills_assessment: [
+//     'C++: Good',
+//     'JavaScript: Excellent',
+//     'React.js: Excellent',
+//     'Node.js: Excellent',
+//     'Express.js: Excellent',
+//     'MongoDB: Excellent',
+//     'HTML, CSS, SCSS: Good',
+//     'REST APIs: Good',
+//     'Git & GitHub: Good',
+//     'DSA: Excellent',
+//     'AI Integration (Gemini AI): Good'
+//   ],
+//   behavioral_skills_assessment: [
+//     'Problem-solving: High (demonstrated through projects and DSA achievement)',
+//     'Proactiveness: High (self-initiated projects and DSA challenges)',
+//     'Teamwork: Not explicitly assessed, but implied from internship experience',
+//     'Communication: Not assessed based on resume',
+//     'Adaptability: Not assessed based on resume'
+//   ],
+//   interview_notes: "Om Gupta presents as a highly promising candidate with a robust technical foundation in the MERN stack. His projects, particularly the 'AI Interview Platform' utilizing Gemini AI, showcase practical application of his skills and an eagerness to explore modern technologies. The significant achievement in DSA further underscores strong logical and problem-solving abilities. While his professional experience is nascent, his project work and internship indicate a strong capability for a junior or entry-level MERN developer role. His ongoing education suggests potential long-term growth and up-to-date knowledge. Further evaluation during an interview would focus on the depth of his technical understanding, thought processes, and behavioral attributes.",
+//   next_steps: [
+//     'Schedule a technical screening interview to delve deeper into MERN stack concepts and problem-solving abilities.',
+//     'Conduct a live coding exercise to assess practical application of skills.',
+//     'Evaluate communication skills and cultural fit during a behavioral interview.',
+//     'Discuss career aspirations and availability, given ongoing education.'
+//   ]
+// }
